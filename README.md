@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=filippopelloia&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=filippopelloia&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **filippopelloia/filippopelloia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
